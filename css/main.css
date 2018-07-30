@@ -1,1 +1,24 @@
-/* Los estilos de tu proyecto */
+body {
+  background-color: #F7B617;
+  margin: 0px;
+  max-height: 100vh;
+  font-family: 'Lato', sans-serif;
+}
+
+hr {
+  width: 100%;
+  border: 1px solid grey;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li a {
+  color: white;
+}
+
+ul li a:hover {
+  text-decoration: none;
+  color: grey;
+}
